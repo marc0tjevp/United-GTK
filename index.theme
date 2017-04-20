@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Flat-Plat
-Comment=A Material Design-like theme
+Name=United
+Comment=Ubuntu 18.04 based theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Flat-Plat
-MetacityTheme=Flat-Plat
+GtkTheme=United
+MetacityTheme=United
